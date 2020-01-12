@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\bin\Debug\netcoreapp2.1\ApiSqlCurso.deps.json
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\bin\Debug\netcoreapp2.1\ApiSqlCurso.runtimeconfig.json
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\bin\Debug\netcoreapp2.1\ApiSqlCurso.runtimeconfig.dev.json
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\bin\Debug\netcoreapp2.1\ApiSqlCurso.dll
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\bin\Debug\netcoreapp2.1\ApiSqlCurso.pdb
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.dll
+C:\Users\User\Desktop\Proyectos\SQL Azure\ApiSqlCurso\obj\Debug\netcoreapp2.1\ApiSqlCurso.pdb
